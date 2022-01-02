@@ -1,10 +1,5 @@
 package com.github.customers.controllers.impl;
 
-import com.github.customers.dto.AddressDto;
-import com.github.customers.entity.Address;
-import com.github.customers.entity.Customer;
-
-import java.util.List;
 import java.util.UUID;
 
 public class AddressControllerMocks {

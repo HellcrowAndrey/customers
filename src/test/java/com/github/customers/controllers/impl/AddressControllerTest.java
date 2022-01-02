@@ -1,9 +1,5 @@
 package com.github.customers.controllers.impl;
 
-import com.github.customers.dto.AddressDto;
-import com.github.customers.entity.Address;
-import com.github.customers.repository.AddressRepo;
-import com.github.customers.repository.CustomerRepo;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
